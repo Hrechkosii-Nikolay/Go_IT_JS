@@ -12,4 +12,4 @@ while (true) {
 }
 
 console.log(`Общая сумма = ${total}`);
-alert(`Общая сумма = ${total}`);
+alert(`Общая сумма : ${total}`);
