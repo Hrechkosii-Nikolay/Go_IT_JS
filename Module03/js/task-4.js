@@ -4,7 +4,7 @@ const countTotalSalary = function (employees) {
   for (const value of values) {
     totalFeetback += value;
   }
-  return totalFeetback;
+  return `Total: ${totalFeetback}`;
 };
 
 console.log(countTotalSalary({})); // 0
